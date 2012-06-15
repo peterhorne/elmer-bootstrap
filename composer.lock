@@ -1,6 +1,11 @@
 {
-    "hash": "755aed7d68c2aa816fc78a38d792de66",
+    "hash": "62771f8f434523e29e8814f883dda8e1",
     "packages": [
+        {
+            "package": "kriswallsmith/assetic",
+            "version": "1.0.x-dev",
+            "source-reference": "e52c8b362d388673b0c90649d07341f7839eca98"
+        },
         {
             "package": "monolog/monolog",
             "version": "1.1.0"
