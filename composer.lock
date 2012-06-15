@@ -1,0 +1,37 @@
+{
+    "hash": "755aed7d68c2aa816fc78a38d792de66",
+    "packages": [
+        {
+            "package": "monolog/monolog",
+            "version": "1.1.0"
+        },
+        {
+            "package": "mthaml/mthaml",
+            "version": "dev-master",
+            "source-reference": "7ab867eacc140d8192a53319f211fd2d6075e933"
+        },
+        {
+            "package": "peterhorne/elmer",
+            "version": "v0.1.5"
+        },
+        {
+            "package": "twig/twig",
+            "version": "dev-master",
+            "alias-pretty-version": "1.8.x-dev",
+            "alias-version": "1.8.9999999.9999999-dev"
+        },
+        {
+            "package": "twig/twig",
+            "version": "dev-master",
+            "source-reference": "120c44d68f07ced5b1e08f582f94016f4f2685d6"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "mthaml/mthaml": 20
+    }
+}
