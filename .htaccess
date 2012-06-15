@@ -1,4 +1,4 @@
 RewriteEngine on
 RewriteCond %{REQUEST_URI} !public/
-RewriteCond $1 !^index\.php
-RewriteRule ^(.*)$ index.php/$1
+RewriteCond $1 !^bootstrap\.php
+RewriteRule ^(.*)$ bootstrap.php/$1
